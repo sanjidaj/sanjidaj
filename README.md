@@ -18,7 +18,7 @@
 
 ## 🌱 About Me
 
-```javascript
+
 const sanjida = {
     education: "Computer Science & Engineering",
     role: "Aspiring Frontend Developer",
@@ -31,8 +31,6 @@ const sanjida = {
     goal: "Build useful, clean and user-friendly web applications",
     mindset: "Learn • Build • Improve 🚀"
 };
-```
-
 I’m a **Computer Science & Engineering undergraduate** with a growing passion for web development.
 
 I enjoy turning ideas into practical projects and creating interfaces that are **clean, responsive, and easy to use**. I'm currently strengthening my frontend skills while exploring the **MERN stack** and learning more about modern technologies.
@@ -208,9 +206,7 @@ When I'm away from my code editor, I enjoy:
 <img src="https://img.shields.io/badge/GitHub-0A1931?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="www.linkedin.com/in/sanjida-jahan
-
-">
+<a href="https://www.linkedin.com/in/sanjida-jahan/">
 <img src="https://img.shields.io/badge/LinkedIn-1A3D63?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
