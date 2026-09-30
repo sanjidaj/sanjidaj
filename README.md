@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Sanjida Jahan 👋
 
 ### Frontend Developer | Computer Science Student
@@ -129,6 +128,7 @@ I'm always happy to connect with fellow learners and developers, and I'm open to
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sanjidaj-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br/>
 
 *Thanks for stopping by!*
 
