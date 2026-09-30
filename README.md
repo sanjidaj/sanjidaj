@@ -120,7 +120,6 @@ I'm a Computer Science and Engineering undergraduate with a strong interest in *
 
 I'm always happy to connect with fellow learners and developers, and I'm open to learning opportunities and collaboration.
 
-<br>
 
 <a href="https://www.linkedin.com/in/sanjida-jahan/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanjida_Jahan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -130,7 +129,6 @@ I'm always happy to connect with fellow learners and developers, and I'm open to
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-sanjidaj-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br><br>
 
 *Thanks for stopping by!*
 
